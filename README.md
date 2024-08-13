@@ -1,10 +1,7 @@
+# Landing Page Truck Service
 
-  # Truck Service Landing Page Design (Community)
+## Deskripsi
 
-  Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code>
+**Landing Page Truck Service** adalah proyek desain halaman arahan (landing page) yang dirancang khusus untuk layanan penyewaan truk. Halaman ini bertujuan untuk mempromosikan layanan penyewaan truk kepada calon pelanggan dengan menampilkan informasi yang jelas dan menarik, serta call-to-action yang mendorong pengunjung untuk menggunakan layanan atau menghubungi perusahaan.
 
-  To preview and run the project on your device:
-  1) Open project folder in <a href="https://code.visualstudio.com/download">Visual Studio Code</a>
-  2) In the terminal, run `npm install`
-  3) Run `npm start` to view project in browser
-  
+<img src="img" alt="Alt Text" width="3000"/>
